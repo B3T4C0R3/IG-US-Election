@@ -6,8 +6,8 @@ const brand = {
     footerText: 'IG',
     logoText: 'Presidential Election Trading Days - Powered by IG',
     projectName: 'Presidential Election Trading Days - Powered by IG',
-    url: 'igus.nl',
-    img: '/static/images/igus-logo.png',
+    url: 'b3t4c0r3.github.io',
+    img: '/static/images/logo.svg',
     notifMsg:
       'Donec sit amet nulla sed arcu pulvinar ultricies commodo id ligula.'
   }
