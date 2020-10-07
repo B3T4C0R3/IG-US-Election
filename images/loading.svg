@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="368.342" height="532.493" viewBox="0 0 368.342 532.493">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Union_1" data-name="Union 1" d="M0-4439.8v-212.568l184.083-106.289,174.869,101.164-78.256,45.1-96.931-56.168L77.61-4607.266v122.586L183.766-4423.4l96.917-54.215,78.622,45.374-175.222,98.731Zm289.732-53.686.078-102.911,78.532-45.414-.009,193.615ZM.055-4819.875,77.957-4866l-.009,146.994L.05-4674.083Z" transform="translate(775.978 5139.478)" fill="#0af167"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 520 293">
+      <image width="520" height="293" xlink:href="background.gif"/>
+    </pattern>
+  </defs>
+  <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(-775.978 -273.477)" clip-path="url(#clip-path)">
+    <rect id="background" width="945" height="533" transform="translate(488 274)" fill="url(#pattern)"/>
+  </g>
+</svg>
