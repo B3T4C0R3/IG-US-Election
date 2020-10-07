@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/wereldoverzicht", {data:[{}],fetch:[],mutations:[]});
