@@ -1,16 +1,16 @@
 const imgAPI = {
   avatar: [
-    '/images/avatars/pp_girl.svg',
-    '/images/avatars/pp_girl2.svg',
-    '/images/avatars/pp_girl3.svg',
-    '/images/avatars/pp_girl4.svg',
-    '/images/avatars/pp_girl5.svg',
-    '/images/avatars/pp_girl.svg',
-    '/images/avatars/pp_boy.svg',
-    '/images/avatars/pp_boy2.svg',
-    '/images/avatars/pp_boy3.svg',
-    '/images/avatars/pp_boy4.svg',
-    '/images/avatars/pp_boy5.svg'
+    '~static/images/avatars/pp_girl.svg',
+    '~static/images/avatars/pp_girl2.svg',
+    '~static/images/avatars/pp_girl3.svg',
+    '~static/images/avatars/pp_girl4.svg',
+    '~static/images/avatars/pp_girl5.svg',
+    '~static/images/avatars/pp_girl.svg',
+    '~static/images/avatars/pp_boy.svg',
+    '~static/images/avatars/pp_boy2.svg',
+    '~static/images/avatars/pp_boy3.svg',
+    '~static/images/avatars/pp_boy4.svg',
+    '~static/images/avatars/pp_boy5.svg'
   ],
   photo: [
     'https://via.placeholder.com/675x900/e1ad92/fff',
@@ -29,13 +29,13 @@ const imgAPI = {
     'https://via.placeholder.com/640x425/c4cdff/757575'
   ],
   igus: [
-    '/images/igus/hexa-blue.png',
-    '/images/igus/hexa-green.png',
-    '/images/igus/hexa-blue.png',
-    '/images/igus/hexa-green.png',
+    '~static/images/igus/hexa-blue.png',
+    '~static/images/igus/hexa-green.png',
+    '~static/images/igus/hexa-blue.png',
+    '~static/images/igus/hexa-green.png',
     'https://via.placeholder.com/600x341/cac142/FFFFFF',
     'https://via.placeholder.com/1280x677/204473/FFFFFF',
-    '/images/igus/igus_laptop.png'
+    '~static/images/igus/igus_laptop.png'
   ]
 }
 
