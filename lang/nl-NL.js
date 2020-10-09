@@ -47,6 +47,8 @@ export default () => {
         nl: 'Nederlands'
       },
       IGUS: {
+        watch_video: 'Video bekijken',
+        close: 'sluiten',
         header_login: 'inloggen',
         header_register: 'registreren',
         header_language: 'taal',

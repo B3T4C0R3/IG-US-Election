@@ -60,6 +60,10 @@
  * @license MIT
  */
 
+/*! http://mths.be/fromcodepoint v0.1.0 by @mathias */
+
+/*! https://mths.be/punycode v1.4.1 by @mathias */
+
 /**
 * @link https://github.com/gajus/sister for the canonical source repository
 * @license https://github.com/gajus/sister/blob/master/LICENSE BSD 3-Clause
