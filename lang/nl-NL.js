@@ -47,7 +47,14 @@ export default () => {
         nl: 'Nederlands'
       },
       IGUS: {
+        instructions:
+          'Draai met uw cursor de aarde rond en klik op een ster om het geselecteerde continent te bekijken',
+        instructions_mobile:
+          'Swipe om de aarde te draaien en druk op een ster om het geselecteerde continent te bekijken',
         watch_video: 'Video bekijken',
+        read_more: 'Meer lezen',
+        webinar_title: 'Aankomende Webinars',
+        news_title: 'In het nieuws:',
         close: 'sluiten',
         header_login: 'inloggen',
         header_register: 'registreren',
