@@ -66,18 +66,25 @@ export default () => {
         time: 'tijd:',
         days: 'dagen',
         hours: 'uren',
-        banner_date: '2 tot 4 november 2020',
+        banner_date: '2 tot 6 november 2020',
         banner_title:
           'Ontdek wereldwijde beleggingskansen tijdens de Amerikaanse verkiezingen!',
         banner_subtitle:
           'Hoe reageren andere landen op de Amerikaanse verkiezingen en wat heeft het voor invloed op de beurshandel? De experts nemen u mee in een rondreis door de wereldwijde beurshandel tijdens de Amerikaanse verkiezingen.',
-        banner_signup: 'Meld u aan en blijf op de hoogte:',
+        banner_signup: 'Meld u aan voor aankomende webinars:',
         banner_email: 'Uw emailadres...',
-        home_title: '3 dagen lang beursnieuws uit de hele wereld',
+        home_title: '5 dagen lang beursnieuws uit de hele wereld',
         home_text:
           "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software including versions of Lorem Ipsum.",
         footer_link: 'Quick links',
-        to_top: 'Naar boven'
+        to_top: 'Naar boven',
+        terms: 'Ik accepteer de ',
+        terms2: 'voorwaarden',
+        coaches: 'De Coaches',
+        caption: 'Preview Wereldoverzicht',
+        TOS_title: 'US Elections trading week voorwaarden',
+        TOS_text:
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software including versions of Lorem Ipsum."
       }
     })
   })
