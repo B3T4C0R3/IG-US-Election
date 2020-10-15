@@ -76,7 +76,7 @@ export default () => {
         banner_email: 'Uw emailadres...',
         home_title: '5 dagen lang beursnieuws uit de hele wereld',
         home_text:
-          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software including versions of Lorem Ipsum.",
+          'Wereldwijd wordt er veel aandacht besteed aan de Amerikaanse verkiezingen en dit zorgt voor veel volatiliteit op de belangrijkste beurzen. Door in te spelen op deze volatiliteit kunnen interessante beleggingskansen worden benut. Één week lang analyseren onze coaches de belangrijkste beurzen in Azië, Europa en de Verenigde Staten met als doel om aantrekkelijke beleggingskansen te bepalen. U kunt zich aanmelden om gedurende deze week drie keer per dag een interessante beleggingskans te vernemen.',
         footer_link: 'Quick links',
         to_top: 'Naar boven',
         terms: 'Ik ga akkoord met de algemene ',
