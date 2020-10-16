@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="259.778" height="81.514" viewBox="0 0 259.778 81.514">
   <g id="Group_2" data-name="Group 2" transform="translate(-899.656 -108.727)">
-    <path id="Five-pointed_star" d="M44.3,1,55.12,31.668H87.593L62.336,51.512l9.02,30.668L44.3,64.14l-27.06,18.04,9.02-30.668L1,31.668H33.472Z" transform="translate(898.656 107.727)" fill="#003d7e"/>
-    <path id="Five-pointed_star-2" data-name="Five-pointed_star" d="M44.3,1,55.12,31.668H87.593L62.336,51.512l9.02,30.668L44.3,64.14l-27.06,18.04,9.02-30.668L1,31.668H33.472Z" transform="translate(985.249 108.06)" fill="#003d7e"/>
-    <path id="Five-pointed_star-3" data-name="Five-pointed_star" d="M44.3,1,55.12,31.668H87.593L62.336,51.512l9.02,30.668L44.3,64.14l-27.06,18.04,9.02-30.668L1,31.668H33.472Z" transform="translate(1071.842 107.727)" fill="#003d7e"/>
+    <path id="Five-pointed_star" d="M44.3,1,55.12,31.668H87.593L62.336,51.512l9.02,30.668L44.3,64.14l-27.06,18.04,9.02-30.668L1,31.668H33.472Z" transform="translate(898.656 107.727)" fill="#002954"/>
+    <path id="Five-pointed_star-2" data-name="Five-pointed_star" d="M44.3,1,55.12,31.668H87.593L62.336,51.512l9.02,30.668L44.3,64.14l-27.06,18.04,9.02-30.668L1,31.668H33.472Z" transform="translate(985.249 108.06)" fill="#002954"/>
+    <path id="Five-pointed_star-3" data-name="Five-pointed_star" d="M44.3,1,55.12,31.668H87.593L62.336,51.512l9.02,30.668L44.3,64.14l-27.06,18.04,9.02-30.668L1,31.668H33.472Z" transform="translate(1071.842 107.727)" fill="#002954"/>
   </g>
 </svg>
