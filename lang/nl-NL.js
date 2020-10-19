@@ -43,6 +43,9 @@ export default () => {
         register_title: 'Leuk je te ontmoeten :)',
         register_subtitle: '',
         accept: 'Accepteren',
+        cookies_accept: 'Accepteren',
+        cookies:
+          'Wij maken gebruik van cookies om uw ervaring te optimaliseren.',
         en: 'Engels',
         nl: 'Nederlands'
       },
