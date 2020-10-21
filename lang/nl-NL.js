@@ -6,8 +6,7 @@ export default () => {
         subtitle: "It's a blank-page. Start to build your'e page from here.",
         error_with_status: 'Er is iets fout gegaan',
         '404': 'Deze pagina is niet gevonden',
-        '404_subtitle':
-          'Je kan hier blijven relaxen of terug gaan naar de homepagina.',
+        '404_subtitle': 'Je kan hier blijven of terug gaan naar de homepagina.',
         back: 'Terug naar home',
         error_without_status: 'An error occurred on the server',
         contact_title: 'Free Project Quote',
@@ -69,7 +68,7 @@ export default () => {
         time: 'tijd:',
         days: 'dagen',
         hours: 'uren',
-        banner_date: '2 tot en met 6 november 2020',
+        banner_date: '2 november tot en met 6 november 2020',
         banner_title:
           'Ontdek wereldwijde beleggingskansen tijdens de Amerikaanse verkiezingen!',
         banner_subtitle:
@@ -80,7 +79,8 @@ export default () => {
         home_title: '5 dagen lang beursnieuws uit de hele wereld',
         home_text:
           'Wereldwijd wordt er veel aandacht besteed aan de Amerikaanse verkiezingen en dit zorgt voor veel volatiliteit op de belangrijkste beurzen. Door in te spelen op deze volatiliteit kunnen interessante beleggingskansen worden benut. Één week lang analyseren onze coaches de belangrijkste beurzen in Azië, Europa en de Verenigde Staten met als doel om aantrekkelijke beleggingskansen te bepalen. U kunt zich aanmelden om gedurende deze week drie keer per dag een interessante beleggingskans te vernemen.',
-        footer_link: 'Quick links',
+        footer_link: 'Voorwaarden',
+        footer_address: 'Adres',
         to_top: 'Naar boven',
         terms: 'Ik ga akkoord met de algemene ',
         terms2: 'voorwaarden',
