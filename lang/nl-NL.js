@@ -85,7 +85,7 @@ export default () => {
         terms: 'Ik ga akkoord met de algemene ',
         terms2: 'voorwaarden',
         terms3:
-          'Ik wil graag per mail regelmatige updates ontvangen over de US elections en de US elections Training Week en mijn gegevens mogen gebruikt worden voor het versturen van mailings van IG en IEX.',
+          'Ik wil graag per mail regelmatige updates ontvangen over de US elections en de US elections Training Week van IG Europe GmbH en IEX.',
         coaches_title: 'De US Election Training Week Coaches',
         coaches_text:
           'Maak kennis met de US Elections Training Week Coaches. Zij nemen u mee op reis naar de beurzen van Amerika, Azië en Europa om u te laten zien welke handelskansen er ontstaan gedurende en rondom de Amerikaanse verkiezingen.   ',
