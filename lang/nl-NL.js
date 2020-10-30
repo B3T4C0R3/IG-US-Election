@@ -65,6 +65,9 @@ export default () => {
         header_feature: 'Werkwijze',
         header_contact: 'contact',
         start: 'start over:',
+        today: 'vandaag:',
+        ended: 'winnaar:',
+        winner: 'Wachten op uitslag',
         time: 'tijd:',
         days: 'dagen',
         hours: 'uren',
@@ -90,6 +93,7 @@ export default () => {
         coaches_text:
           'Maak kennis met de US Elections Training Week Coaches. Zij nemen u mee op reis naar de beurzen van Amerika, Azië en Europa om u te laten zien welke handelskansen er ontstaan gedurende en rondom de Amerikaanse verkiezingen.   ',
         caption: 'Preview Wereldoverzicht',
+        latest_news: 'IEX.nl Nieuws',
         TOS_title: 'Algemene voorwaarden US Elections Training Week',
         TOS_text:
           "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software including versions of Lorem Ipsum.",
