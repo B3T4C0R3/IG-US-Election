@@ -67,7 +67,7 @@ export default () => {
         start: 'start over:',
         today: 'vandaag:',
         ended: 'winnaar:',
-        winner: 'Wachten op uitslag',
+        winner: 'Joe Biden',
         time: 'tijd:',
         days: 'dagen',
         hours: 'uren',
